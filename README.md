@@ -2,7 +2,7 @@
 Basic template repo for webpack workflow.
 
 
-##To Deploy:
+#To Deploy:
 
 Make a new branch to deploy from by running git branch gh-pages. You only need to do this the first time you deploy. The rest of the steps should be done every time you deploy or redeploy your project.
 Make sure you have all your work committed. You can use git status to see if there’s anything that needs committing.
